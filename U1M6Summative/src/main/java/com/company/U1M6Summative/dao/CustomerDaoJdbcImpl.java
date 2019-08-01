@@ -14,11 +14,19 @@ public class CustomerDaoJdbcImpl implements CustomerDao{
     private JdbcTemplate jdbcTemplate;
 
     private static final String SELECT_CUSTOMER_BY_ID = "select * from customer where customer_id=?";
-    private static final String SELECT_CUSTOMER_BY
+    private static final String SELECT_CUSTOMER_BY_PHONE = "select * from customer where phone=?";
+    private static final String SELECT_CUSTOMER_BY_EMAIL = "select * from customer where email =?";
+    private static final String SELECT_ALLCUSTOMER = "select * from customer";
+    private static final String INSERT_CUSTOMER = "insert into customer(first_name,last_name,email,company,phone) values(?,?,?,?,?)";
+    private static final String UPDATE_CUSTOMER = "update customer set first_name=?,last_name=?,email=?,company=?,phone=? where" +
+            "customer_id=?";
+    private static final String DELETE_CUSTOMER = "delete from customer where customer_id=?";
+
 
     @Override
     public Customer findCustomerById(int id) {
-        return null;
+
+        jdbcTemplate.queryForObject()
     }
 
     @Override

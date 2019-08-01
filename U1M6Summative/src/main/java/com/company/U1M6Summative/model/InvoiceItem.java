@@ -5,10 +5,10 @@ import java.util.Objects;
 
 public class InvoiceItem {
 
-    private int invoiceItemId;
-    private int invoiceId;
-    private int itemId;
-    private int quantity;
+    private Integer invoiceItemId;
+    private Integer invoiceId;
+    private Integer itemId;
+    private Integer quantity;
     private BigDecimal unitRate;
     private BigDecimal discount;
 

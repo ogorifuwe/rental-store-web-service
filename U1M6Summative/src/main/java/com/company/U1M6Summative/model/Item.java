@@ -5,7 +5,7 @@ import java.util.Objects;
 
 public class Item {
 
-    private int itemId;
+    private Integer itemId;
     private String name;
     private String description;
     private BigDecimal dailyRate;

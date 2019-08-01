@@ -8,8 +8,6 @@ import java.util.Objects;
 
 public class Customer {
 
-    @Valid
-    @NotNull
     private Integer customerId;
     private String firstName;
     private String lastName;
