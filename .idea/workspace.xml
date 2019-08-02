@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="3dddb60e-d61d-4593-b452-2ae07b96e082" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/CustomerDaoJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/CustomerDaoJdbcImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Invoice.java" afterDir="false" />
+=======
+    <list default="true" id="1c781f99-3b2d-4665-ab3e-efbab56e1efc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/CustomerDaoJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/CustomerDaoJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U1M6Summative/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/U1M6Summative/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/ItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/ItemTest.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/U1M6Summative/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
+<<<<<<< Updated upstream
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
@@ -34,12 +43,28 @@
               <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/ItemDaoJdbcImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1125">
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1232#1233#0" expanded="true" />
+                <element signature="e#1273#1274#0" expanded="true" />
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Invoice.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
@@ -53,15 +78,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
               <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+=======
+        <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/U1M6SummativeApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/CustomerDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
               <caret line="14" column="43" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="14" selection-end-column="43" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/ItemTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-146">
+              <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,6 +109,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/InvoiceDaoJdbcImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -78,12 +118,21 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#1539#1540#0" expanded="true" />
                 <element signature="e#1566#1567#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/ItemDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/CustomerDaoJdbcImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
@@ -108,11 +157,23 @@
               <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+              <folding>
+                <element signature="e#714#715#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/InvoiceDaoTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,6 +182,13 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Invoice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-152">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -135,6 +203,7 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Album</find>
@@ -143,18 +212,34 @@
       <replace>Invoice</replace>
     </replaceStrings>
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/ItemDao.java" />
         <option value="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/InvoiceDao.java" />
         <option value="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/InvoiceDaoJdbcImpl.java" />
         <option value="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/CustomerDaoJdbcImpl.java" />
         <option value="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Invoice.java" />
         <option value="$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/InvoiceDaoTest.java" />
+=======
+        <option value="$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/CustomerDaoTest.java" />
+        <option value="$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/InvoiceTest.java" />
+        <option value="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/InvoiceDao.java" />
+        <option value="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/ItemDao.java" />
+        <option value="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/CustomerDaoJdbcImpl.java" />
+        <option value="$PROJECT_DIR$/U1M6Summative/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/U1M6Summative/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/ItemDaoJdbcImpl.java" />
+        <option value="$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/ItemTest.java" />
+        <option value="$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/InvoiceItemTest.java" />
+        <option value="$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Item.java" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -163,8 +248,13 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/rental-store-web-service.iml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+=======
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+>>>>>>> Stashed changes
         <option value="$PROJECT_DIR$/.idea/encodings.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
         <option value="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
@@ -230,6 +320,7 @@
         <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_8_RELEASE.xml" />
         <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" />
         <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" />
+<<<<<<< Updated upstream
       </list>
     </option>
   </component>
@@ -238,13 +329,25 @@
     <option name="y" value="45" />
     <option name="width" value="1245" />
     <option name="height" value="980" />
+=======
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+>>>>>>> Stashed changes
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< Updated upstream
       <pane id="Scope" />
+=======
+>>>>>>> Stashed changes
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,6 +415,17 @@
               <item name="rental-store-web-service" type="462c0819:PsiDirectoryNode" />
               <item name="U1M6Summative" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< Updated upstream
+=======
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rental-store-web-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rental-store-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="U1M6Summative" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+>>>>>>> Stashed changes
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -341,15 +455,37 @@
               <item name="U1M6Summative" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< Updated upstream
+=======
+            <path>
+              <item name="rental-store-web-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rental-store-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="U1M6Summative" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> Stashed changes
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< Updated upstream
+=======
+      <pane id="Scope" />
+>>>>>>> Stashed changes
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Homework-Working/U1-M5-Summative-Kumar-Manish/ManishKumarU1M5Summative" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+>>>>>>> Stashed changes
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunDashboard">
@@ -364,11 +500,105 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="RunManager" selected="JUnit.ItemTest.findItemByNameAndPrice">
+    <configuration name="ItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="U1M6Summative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.U1M6Summative.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.U1M6Summative.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.company.U1M6Summative.dao.ItemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemTest.addFindDeleteItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="U1M6Summative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.U1M6Summative.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.U1M6Summative.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.company.U1M6Summative.dao.ItemTest" />
+      <option name="METHOD_NAME" value="addFindDeleteItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemTest.findAllItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="U1M6Summative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.U1M6Summative.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.U1M6Summative.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.company.U1M6Summative.dao.ItemTest" />
+      <option name="METHOD_NAME" value="findAllItems" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemTest.findItemByNameAndPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="U1M6Summative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.U1M6Summative.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.U1M6Summative.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.company.U1M6Summative.dao.ItemTest" />
+      <option name="METHOD_NAME" value="findItemByNameAndPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemTest.updateItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="U1M6Summative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.U1M6Summative.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.U1M6Summative.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.company.U1M6Summative.dao.ItemTest" />
+      <option name="METHOD_NAME" value="updateItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ItemTest.findItemByNameAndPrice" />
+        <item itemvalue="JUnit.ItemTest.updateItem" />
+        <item itemvalue="JUnit.ItemTest.findAllItems" />
+        <item itemvalue="JUnit.ItemTest" />
+        <item itemvalue="JUnit.ItemTest.addFindDeleteItem" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> Stashed changes
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="3dddb60e-d61d-4593-b452-2ae07b96e082" name="Default Changelist" comment="" />
       <created>1564689601506</created>
       <option name="number" value="Default" />
@@ -394,10 +624,68 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
+=======
+      <changelist id="1c781f99-3b2d-4665-ab3e-efbab56e1efc" name="Default Changelist" comment="" />
+      <created>1564687912614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564687912614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ItemTest - 2019.08.02 at 09h 18m 05s.xml">
+      <configuration name="ItemTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemTest - 2019.08.02 at 11h 01m 01s.xml">
+      <configuration name="ItemTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemTest - 2019.08.02 at 11h 02m 12s.xml">
+      <configuration name="ItemTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemTest_addFindDeleteItem - 2019.08.02 at 11h 13m 29s.xml">
+      <configuration name="ItemTest.addFindDeleteItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemTest_addFindDeleteItem - 2019.08.02 at 11h 16m 40s.xml">
+      <configuration name="ItemTest.addFindDeleteItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemTest_addFindDeleteItem - 2019.08.02 at 11h 17m 39s.xml">
+      <configuration name="ItemTest.addFindDeleteItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemTest - 2019.08.02 at 11h 23m 52s.xml">
+      <configuration name="ItemTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemTest_findAllItems - 2019.08.02 at 11h 27m 17s.xml">
+      <configuration name="ItemTest.findAllItems" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemTest_updateItem - 2019.08.02 at 11h 27m 30s.xml">
+      <configuration name="ItemTest.updateItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemTest_findItemByNameAndPrice - 2019.08.02 at 11h 27m 40s.xml">
+      <configuration name="ItemTest.findItemByNameAndPrice" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< Updated upstream
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -420,29 +708,100 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/CustomerDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/InvoiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+>>>>>>> Stashed changes
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/ItemDaoJdbcImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+=======
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/CustomerDao.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="280">
           <caret line="14" column="43" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="14" selection-end-column="43" />
+=======
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/InvoiceDaoJdbcImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -451,20 +810,64 @@
             <element signature="imports" expanded="true" />
             <element signature="e#1539#1540#0" expanded="true" />
             <element signature="e#1566#1567#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/InvoiceItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/CustomerDaoJdbcImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/ItemDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/InvoiceDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/InvoiceItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10">
@@ -476,11 +879,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+=======
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/dao/ItemDaoJdbcImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1125">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/U1M6SummativeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Invoice.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="400">
           <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
         </state>
@@ -490,6 +912,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
           <caret line="108" column="53" lean-forward="true" selection-start-line="108" selection-start-column="53" selection-end-line="108" selection-end-column="53" />
+=======
+        <state relative-caret-position="-152">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/main/java/com/company/U1M6Summative/model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding>
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/U1M6Summative/src/test/java/com/company/U1M6Summative/dao/ItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -497,4 +943,78 @@
       </provider>
     </entry>
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+>>>>>>> Stashed changes
 </project>

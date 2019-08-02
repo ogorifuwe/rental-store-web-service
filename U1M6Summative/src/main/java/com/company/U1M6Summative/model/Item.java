@@ -1,6 +1,7 @@
 package com.company.U1M6Summative.model;
 
 import java.math.BigDecimal;
+import java.math.MathContext;
 import java.util.Objects;
 
 public class Item {
@@ -9,6 +10,7 @@ public class Item {
     private String name;
     private String description;
     private BigDecimal dailyRate;
+    MathContext mc = new MathContext(2);
 
     public int getItemId() {
         return itemId;
@@ -35,11 +37,11 @@ public class Item {
     }
 
     public BigDecimal getDailyRate() {
-        return dailyRate;
+        return dailyRate.round(mc);
     }
 
     public void setDailyRate(BigDecimal dailyRate) {
-        this.dailyRate = dailyRate;
+        this.dailyRate = dailyRate.round(mc);
     }
 
     @Override
@@ -56,5 +58,15 @@ public class Item {
     @Override
     public int hashCode() {
         return Objects.hash(itemId, name, description, dailyRate);
+    }
+
+    @Override
+    public String toString() {
+        return "Item{" +
+                "itemId=" + itemId +
+                ", name='" + name + '\'' +
+                ", description='" + description + '\'' +
+                ", dailyRate=" + dailyRate +
+                '}';
     }
 }

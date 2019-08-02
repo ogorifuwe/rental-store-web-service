@@ -30,6 +30,7 @@ public class CustomerDaoJdbcImpl implements CustomerDao{
     public Customer findCustomerById(int id) {
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         try {
             return jdbcTemplate.queryForObject(SELECT_CUSTOMER_BY_ID, this::mapRowToCustomer, id);
         }catch (EmptyResultDataAccessException e){
@@ -37,6 +38,10 @@ public class CustomerDaoJdbcImpl implements CustomerDao{
         }
 =======
 //        jdbcTemplate.queryForObject()
+        return null;
+>>>>>>> Stashed changes
+=======
+        //jdbcTemplate.queryForObject();
         return null;
 >>>>>>> Stashed changes
     }
