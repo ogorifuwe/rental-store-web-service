@@ -29,11 +29,16 @@ public class CustomerDaoJdbcImpl implements CustomerDao{
     @Override
     public Customer findCustomerById(int id) {
 
+<<<<<<< Updated upstream
         try {
             return jdbcTemplate.queryForObject(SELECT_CUSTOMER_BY_ID, this::mapRowToCustomer, id);
         }catch (EmptyResultDataAccessException e){
             return null;
         }
+=======
+//        jdbcTemplate.queryForObject()
+        return null;
+>>>>>>> Stashed changes
     }
 
     @Override

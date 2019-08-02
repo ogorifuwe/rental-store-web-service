@@ -1,6 +1,7 @@
 package com.company.U1M6Summative.model;
 
 import java.math.BigDecimal;
+import java.math.MathContext;
 import java.time.LocalDate;
 import java.util.Objects;
 
@@ -12,6 +13,7 @@ public class Invoice {
     private LocalDate pickupDate;
     private LocalDate returnDate;
     private BigDecimal lateFee;
+    MathContext mc = new MathContext(2);
 
     public int getInvoiceId() {
         return invoiceId;
@@ -54,11 +56,11 @@ public class Invoice {
     }
 
     public BigDecimal getLateFee() {
-        return lateFee;
+        return lateFee.round(mc);
     }
 
     public void setLateFee(BigDecimal lateFee) {
-        this.lateFee = lateFee;
+        this.lateFee = lateFee.round(mc);
     }
 
     @Override
