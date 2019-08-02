@@ -1,6 +1,7 @@
 package com.company.U1M6Summative.model;
 
 import java.math.BigDecimal;
+import java.math.MathContext;
 import java.util.Objects;
 
 public class InvoiceItem {
@@ -12,6 +13,7 @@ public class InvoiceItem {
     private BigDecimal unitRate;
     private BigDecimal discount;
 
+    MathContext mathContext = new MathContext(2);
 
     public int getInvoiceItemId() {
         return invoiceItemId;
@@ -46,19 +48,19 @@ public class InvoiceItem {
     }
 
     public BigDecimal getUnitRate() {
-        return unitRate;
+        return unitRate.round(mathContext);
     }
 
     public void setUnitRate(BigDecimal unitRate) {
-        this.unitRate = unitRate;
+        this.unitRate = unitRate.round(mathContext);
     }
 
     public BigDecimal getDiscount() {
-        return discount;
+        return discount.round(mathContext);
     }
 
     public void setDiscount(BigDecimal discount) {
-        this.discount = discount;
+        this.discount = discount.round(mathContext);
     }
 
     @Override

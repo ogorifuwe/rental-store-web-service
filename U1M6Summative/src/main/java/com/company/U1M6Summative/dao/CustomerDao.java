@@ -12,7 +12,6 @@ public interface CustomerDao {
     List<Customer> findAllCustomer();
     Customer addCustomer(Customer customer);
     void updateCustomer(Customer customer);
-    void deleteCustomer(Customer customer);
-
+    void deleteCustomer(int id);
 
 }
